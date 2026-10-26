@@ -44,7 +44,7 @@ You paste the same announcement into LinkedIn, then X, then Reddit, then your se
 
 A post lives or dies in its first hour. Schedule one message and **every profile you add amplifies it at the moment you pick**: reposts, quotes and comments from real accounts, each one posting as itself. Teammates add their own profiles once and join every wave after that. No more "hey, can everyone like this?" in Slack.
 
-<sub><b>Recruit Chick</b>. Small. Loud. Armed with likes, every one from a real account.</sub>
+<sub><b>Recruit Chick</b>. Small. Loud. Armed with likes.</sub>
 
 </td>
 <td width="42%"><img src="assets/why-first-hour.webp" width="100%" alt="Recruit Chick, a yellow chick in a green helmet, firing a cannon of likes, reposts and comments"></td>
@@ -57,7 +57,7 @@ A post lives or dies in its first hour. Schedule one message and **every profile
 
 Most outreach tools log in as you from their own servers, with your password, your 2FA codes or your cookies sitting in someone else's cloud. Blowhorn **does the typing and clicking in your own Chrome, on your own computer**, signed in as you. No Blowhorn server ever logs in as you.
 
-<sub><b>Sleeper Cell</b>. Not sleepy. Just quiet. Each Blowhorn profile gets its own Chrome profile.</sub>
+<sub><b>Sleeper Cell</b>. Not sleepy. Just quiet. Very, very quiet.</sub>
 
 </td>
 </tr>
@@ -93,7 +93,7 @@ Major Blowhorn leads, and only Major carries the bullhorn. His troops handle the
 
 ## What stays yours
 
-- **Your sign-ins.** LinkedIn, X, Reddit and Hacker News run in your own Chrome, where your sessions already live. Your everyday browsing stays exactly as you left it.
+- **Your sign-ins.** LinkedIn, X, Reddit and Hacker News run in your own Chrome, where your sessions already live. Each Blowhorn profile gets its own Chrome profile, so your everyday browsing stays exactly as you left it.
 - **Your computers do the work.** Every post, reply and repost runs on one of your computers. Your Blowhorn account only keeps them in sync.
 - **Your voice, unbranded.** Blowhorn never brands or tags what you post. It looks like you because it is you.
 - **Your hand on the lever.** Pause one action, one computer or all of them, then pick up where you left off. CAPTCHAs and 2FA prompts always come to you.
