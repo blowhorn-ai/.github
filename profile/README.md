@@ -77,7 +77,7 @@ Blowhorn never charges per post, so you don't ration reposts or count credits. I
 
 <br>
 
-## A taste of the menu
+## Plenty to do, everywhere you post
 
 Posting is just the opening act. Here is a sampling of what Blowhorn already does across your profiles, and the list keeps growing:
 
@@ -111,7 +111,7 @@ Remote team? Everyone shares one plan and one queue, and each teammate posts fro
 
 Big agency? Put **your logo and colors** on the interfaces, reports and emails your clients see. They see your agency, never Blowhorn.
 
-<sub><b>The General</b>. Grouchy. Reads every report anyway.</sub>
+<sub><b>The General</b>. Grouchy. Reads every report.</sub>
 
 </td>
 <td width="33%" valign="top">
