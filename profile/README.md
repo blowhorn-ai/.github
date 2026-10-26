@@ -26,25 +26,32 @@ five-minute setup, and your first scheduled post can be live today.
 | 🍎 **Download for Mac** | **[Get the latest release](https://github.com/blowhorn-ai/blowhorn-site/releases)** - the Mac app (DMG) lives on the releases page |
 | 🌐 **See it first** | **[blowhorn.ai](https://blowhorn.ai)** - what Blowhorn does, in plain words |
 | 📖 **Learn it properly** | **[blowhorn.ai/docs](https://blowhorn.ai/docs)** - guides, how-tos, and reference |
-| 🕵️ **Try it free first** | **[Blowhorn Tells](https://tells.blowhorn.ai)** - a free check of what websites can see about your browser, no download needed |
+| 🕵️ **Separate free tool** | **[Blowhorn Tells](https://tells.blowhorn.ai)** - a separate free tool, not Blowhorn and not a trial of Blowhorn: a free check of what websites can see about your browser, no download needed |
 
 No account juggling, no spreadsheet of posting times, no "I meant to post
 that." Download it, set it up once, and let the schedule carry the work.
 
 ---
 
-## Try it free first: Blowhorn Tells
+## Blowhorn Tells: a separate free tool
 
-**[Blowhorn Tells](https://tells.blowhorn.ai) is free, and it takes no download.**
+**[Blowhorn Tells](https://tells.blowhorn.ai) is free, and it takes no download, but it is not Blowhorn.**
 
-It is Blowhorn's bot-detection check: open the page and it inspects your
-browser and shows what websites can see about it, from browser and device
-basics to network identity, WebRTC, consistency across contexts, and
-surface signals that stand out. The verdict is the point - if a site can
-tell you are automated, Blowhorn's job is to make sure your real browsing
-does not look that way.
+Blowhorn is the desktop app and service for social media management and
+marketing, helping people plan, draft, and post in the age of AI, when
+agentic agents are also out marketing things. Tells is a different app
+with a different purpose: it helps you understand how bots are detected
+online and how fingerprinting works, using some of the same knowledge
+Blowhorn uses.
 
-Try it before you install anything: **[tells.blowhorn.ai](https://tells.blowhorn.ai)**
+Open the page and it inspects your browser and shows what websites can
+see about it, from browser and device basics to network identity,
+WebRTC, consistency across contexts, and surface signals that stand
+out. The verdict is the point - if a site can tell you are automated,
+Blowhorn's job is to make sure your real browsing does not look that
+way.
+
+Explore Tells on its own terms: **[tells.blowhorn.ai](https://tells.blowhorn.ai)**
 
 ---
 
