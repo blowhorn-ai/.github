@@ -8,7 +8,7 @@ Blowhorn is the app that plans, drafts, and posts your content for you,
 so the right post goes out at the right time, even when you are doing anything else.
 
 [![Download for Mac](https://img.shields.io/badge/Download_for_Mac-00B39F?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/blowhorn-ai/blowhorn-site/releases)
-[![Visit blowhorn.ai](https://img.shields.io/badge/blowhorn.ai-000000?style=for-the-badge)](https://blowhorn.ai)
+[![Visit blowhorn.ai](https://img.shields.io/badge/blowhorn.ai-3C494F?style=for-the-badge)](https://blowhorn.ai)
 [![Read the docs](https://img.shields.io/badge/Docs-00D3A9?style=for-the-badge)](https://blowhorn.ai/docs)
 [![Try Blowhorn Tells free](https://img.shields.io/badge/Blowhorn_Tells_Free-00756A?style=for-the-badge)](https://tells.blowhorn.ai)
 
