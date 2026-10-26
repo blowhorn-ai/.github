@@ -63,6 +63,29 @@ Blowhorn works across the places you already publish, including:
 
 ---
 
+## Scenes from the Army
+
+Major Blowhorn leads the Army, and the Army has a scene for every part of
+the job. These six are covered scenes from the Major Blowhorn scene
+catalog, drawn with the locked Major art: the hero, the signal, the
+battle, the pause, the posted toast, and the banner.
+
+| | |
+|---|---|
+| <img src="scenes/MU-01.png" width="400" alt="MU-01 Home Hero: Major Commands"> | <img src="scenes/RC-03.png" width="400" alt="RC-03 Signal Flare"> |
+| **MU-01 - Home Hero: Major Commands.** Major takes command of the day's posts. | **RC-03 - Signal Flare.** The signal goes up, and the Army moves. |
+| <img src="scenes/BT-23.png" width="400" alt="BT-23 Last Stand at the Empty Feed"> | <img src="scenes/PF-10.png" width="400" alt="PF-10 Pause and Resume"> |
+| **BT-23 - Last Stand at the Empty Feed.** Never let the feed go quiet. | **PF-10 - Pause and Resume.** Pause everything with one click, resume when ready. |
+| <img src="scenes/MU-11.png" width="400" alt="MU-11 Success Toast: Posted"> | <img src="scenes/MU-22.png" width="400" alt="MU-22 LinkedIn Banner"> |
+| **MU-11 - Success Toast: Posted.** Posted. The toast says it all. | **MU-22 - LinkedIn Banner.** Built for the feed where your work lives. |
+
+The full catalog holds 195 scenes across battles, drills, recon and
+comms, platforms, product features, emotional beats, seasonal moments,
+and marketing uses. These six are the ones that tell the story fastest:
+command, signal, battle, pause, posted, banner.
+
+---
+
 ## Inside this organization
 
 | Repository | What lives there |
