@@ -10,6 +10,7 @@ so the right post goes out at the right time, even when you are doing anything e
 [![Download for Mac](https://img.shields.io/badge/Download_for_Mac-00B39F?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/blowhorn-ai/blowhorn-site/releases)
 [![Visit blowhorn.ai](https://img.shields.io/badge/blowhorn.ai-000000?style=for-the-badge)](https://blowhorn.ai)
 [![Read the docs](https://img.shields.io/badge/Docs-00D3A9?style=for-the-badge)](https://blowhorn.ai/docs)
+[![Try Blowhorn Tells free](https://img.shields.io/badge/Blowhorn_Tells_Free-00B39F?style=for-the-badge)](https://tells.blowhorn.ai)
 
 </div>
 
@@ -25,9 +26,25 @@ five-minute setup, and your first scheduled post can be live today.
 | 🍎 **Download for Mac** | **[Get the latest release](https://github.com/blowhorn-ai/blowhorn-site/releases)** - the Mac app (DMG) lives on the releases page |
 | 🌐 **See it first** | **[blowhorn.ai](https://blowhorn.ai)** - what Blowhorn does, in plain words |
 | 📖 **Learn it properly** | **[blowhorn.ai/docs](https://blowhorn.ai/docs)** - guides, how-tos, and reference |
+| 🕵️ **Try it free first** | **[Blowhorn Tells](https://tells.blowhorn.ai)** - a free check of what websites can see about your browser, no download needed |
 
 No account juggling, no spreadsheet of posting times, no "I meant to post
 that." Download it, set it up once, and let the schedule carry the work.
+
+---
+
+## Try it free first: Blowhorn Tells
+
+**[Blowhorn Tells](https://tells.blowhorn.ai) is free, and it takes no download.**
+
+It is Blowhorn's bot-detection check: open the page and it inspects your
+browser and shows what websites can see about it, from browser and device
+basics to network identity, WebRTC, consistency across contexts, and
+surface signals that stand out. The verdict is the point - if a site can
+tell you are automated, Blowhorn's job is to make sure your real browsing
+does not look that way.
+
+Try it before you install anything: **[tells.blowhorn.ai](https://tells.blowhorn.ai)**
 
 ---
 
