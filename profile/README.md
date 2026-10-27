@@ -1,132 +1,166 @@
 <div align="center">
 
-# 📣 Blowhorn
+<a href="https://blowhorn.ai">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.webp">
+    <img src="assets/hero-light.webp" width="100%" alt="Blowhorn. One message. Many ears. Post, amplify and run LinkedIn outreach from every profile you run, signed in as you, on your own computer. Major Blowhorn, a teal rooster drill sergeant, shouts into his bullhorn.">
+  </picture>
+</a>
 
-### Your voice, everywhere. On schedule.
+<h3>Write it once. Every profile you run says it, as you.</h3>
 
-Blowhorn is the app that plans, drafts, and posts your content for you,
-so the right post goes out at the right time, even when you are doing anything else.
+<p>Blowhorn is a private Mac app for marketers, founders, devrel, agencies and remote teams.<br>
+It posts, amplifies and runs LinkedIn outreach across the social profiles you control,<br>
+typing and clicking in your own Chrome, on your own computer.</p>
 
-[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-00B39F?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/blowhorn-ai/blowhorn-site/releases)
-[![Visit blowhorn.ai](https://img.shields.io/badge/blowhorn.ai-3C494F?style=for-the-badge)](https://blowhorn.ai)
-[![Read the docs](https://img.shields.io/badge/Docs-EE5A44?style=for-the-badge)](https://blowhorn.ai/docs)
-[![Try Blowhorn Tells free](https://img.shields.io/badge/Blowhorn_Tells_Free-00756A?style=for-the-badge)](https://tells.blowhorn.ai)
+<a href="https://blowhorn.ai/download"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-download-dark.png"><img src="assets/button-download-light.png" height="49" alt="Download for Mac"></picture></a>&nbsp;&nbsp;
+<a href="https://blowhorn.ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-site-dark.png"><img src="assets/button-site-light.png" height="49" alt="Visit blowhorn.ai"></picture></a>
+
+<sub>Already works with <b>LinkedIn</b> · <b>X</b> · <b>Reddit</b> · <b>Hacker News</b> · <b>Bluesky</b> · <b>Slack</b> · <b>GitHub</b>, with more platforms on the way</sub>
 
 </div>
 
----
+<br>
 
-## Get Blowhorn now
+## Why people fall in behind Major
 
-**The fastest way in is the download.** Grab the Mac app, run through a
-five-minute setup, and your first scheduled post can be live today.
+<table>
+<tr>
+<td width="42%"><img src="assets/why-tabs.webp" width="100%" alt="Trench Trooper, a muddy pig in a helmet, holding a rifle with a long tab bayonet"></td>
+<td>
 
-| | |
-|---|---|
-| 🍎 **Download for Mac** | **[Get the latest release](https://github.com/blowhorn-ai/blowhorn-site/releases)** - the Mac app (DMG) lives on the releases page |
-| 🌐 **See it first** | **[blowhorn.ai](https://blowhorn.ai)** - what Blowhorn does, in plain words |
-| 📖 **Learn it properly** | **[blowhorn.ai/docs](https://blowhorn.ai/docs)** - guides, how-tos, and reference |
-| 🕵️ **Separate free tool** | **[Blowhorn Tells](https://tells.blowhorn.ai)** - a separate free tool, not Blowhorn and not a trial of Blowhorn: a free check of what websites can see about your browser, no download needed |
+### Tab after tab after tab. Somebody call a medic.
 
-No account juggling, no spreadsheet of posting times, no "I meant to post
-that." Download it, set it up once, and let the schedule carry the work.
+You paste the same announcement into LinkedIn, then X, then Reddit, then your second LinkedIn, then your company page, then you lose track. Blowhorn gives you **one queue for every profile you run**. Write it once, pick where it goes, and Blowhorn posts it as you, right on time. Your browser goes back to being a browser.
 
----
+<sub><b>Trench Trooper</b>, dug in against tab chaos since day one.</sub>
 
-## Blowhorn Tells: a separate free tool
+</td>
+</tr>
+<tr>
+<td>
 
-**[Blowhorn Tells](https://tells.blowhorn.ai) is free, and it takes no download, but it is not Blowhorn.**
+### Your launch post deserves more than crickets.
 
-Blowhorn is the desktop app and service for social media management and
-marketing, helping people plan, draft, and post in the age of AI, when
-agentic agents are also out marketing things. Tells is a different app
-with a different purpose: it helps you understand how bots are detected
-online and how fingerprinting works, using some of the same knowledge
-Blowhorn uses.
+A post lives or dies in its first hour. Schedule one message and **every profile you add amplifies it at the moment you pick**: reposts, quotes and comments from real accounts, each one posting as itself. Teammates add their own profiles once and join every wave after that. No more "hey, can everyone like this?" in Slack.
 
-Open the page and it inspects your browser and shows what websites can
-see about it, from browser and device basics to network identity,
-WebRTC, consistency across contexts, and surface signals that stand
-out. The verdict is the point - if a site can tell you are automated,
-Blowhorn's job is to make sure your real browsing does not look that
-way.
+<sub><b>Recruit Chick</b>. Small. Loud. First to fire.</sub>
 
-Explore Tells on its own terms: **[tells.blowhorn.ai](https://tells.blowhorn.ai)**
+</td>
+<td width="42%"><img src="assets/why-first-hour.webp" width="100%" alt="Recruit Chick, a yellow chick in a green helmet, firing a cannon of hearts, reposts and comments"></td>
+</tr>
+<tr>
+<td width="42%"><img src="assets/why-logins.webp" width="100%" alt="Sleeper Cell, a black-faced sheep in a watch cap, crouched behind a padlock shield in front of a glowing keyhole door"></td>
+<td>
 
----
+### Other tools want your password. Blowhorn doesn't.
 
-## What Blowhorn does
+Most outreach tools log in as you from their own servers, with your password, your 2FA codes or your cookies sitting in someone else's cloud. Blowhorn **does the typing and clicking in your own Chrome, on your own computer**, signed in as you. No Blowhorn server ever logs in as you.
 
-- **Schedule once, post on time.** Queue posts, drafts, and recurring
-  activity, and Blowhorn sends them when they are due.
-- **Work from a menu bar, not a browser tab.** A small popover shows what
-  is due, what is running, and what needs you. The full console is there
-  when you want it, and out of the way when you do not.
-- **Keep your browsing yours.** Blowhorn works in a Chrome profile set
-  aside for it, so your everyday windows, tabs, and sign-ins stay exactly
-  as you left them.
-- **Post with guardrails.** Risk Profiles and Safety controls let you
-  decide how bold or careful each post should be, with limits that hold
-  even when you are in a hurry.
-- **Stay in charge of the queue.** Pause everything with one click,
-  review drafts before they go out, and see what posted and what is next.
+<sub><b>Sleeper Cell</b>. Not sleepy. Just quiet. Very, very quiet.</sub>
 
-## Where it posts
+</td>
+</tr>
+<tr>
+<td>
 
-Blowhorn works across the places you already publish, including:
+### No meter running. Your app, your computers.
 
-`LinkedIn` `X` `Reddit` `Hacker News` `Slack` `Bluesky` `GitHub`
+Blowhorn never charges per post, so you don't ration reposts or count credits. Install it on **your computers** and they work as one: they share one queue, they're coordinated so the same post isn't sent from two of them, and whichever one is awake picks up the next job.
 
-## How it works
+<sub><b>Platoon Private</b>. Packs the posts. Brings the backup.</sub>
 
-1. **Download and install** the Mac app from the releases page.
-2. **Connect your accounts** in a dedicated Chrome profile during the
-   guided setup. It takes about five minutes.
-3. **Draft or schedule** your content, pick how careful it should be,
-   and let Blowhorn post it on time. Pause anytime, from the menu bar.
+</td>
+<td width="42%"><img src="assets/why-every-computer.webp" width="100%" alt="Platoon Private, an orange chicken soldier with a full backpack, loading a queue of posts"></td>
+</tr>
+</table>
 
----
+<br>
 
-## Scenes from the Army
+## Plenty to do, everywhere you post
 
-Major Blowhorn leads the Army, and the Army has a scene for every part of
-the job. These six are covered scenes from the Major Blowhorn scene
-catalog, drawn with the locked Major art: the hero, the signal, the
-battle, the pause, the posted toast, and the banner.
+Posting is just the opening act. Here is a sampling of what Blowhorn already does across your profiles, and the list keeps growing:
 
-| | |
-|---|---|
-| <img src="scenes/MU-01.png" width="400" alt="MU-01 Home Hero: Major Commands"> | <img src="scenes/RC-03.png" width="400" alt="RC-03 Signal Flare"> |
-| **MU-01 - Home Hero: Major Commands.** Major takes command of the day's posts. | **RC-03 - Signal Flare.** The signal goes up, and the Army moves. |
-| <img src="scenes/BT-23.png" width="400" alt="BT-23 Last Stand at the Empty Feed"> | <img src="scenes/PF-10.png" width="400" alt="PF-10 Pause and Resume"> |
-| **BT-23 - Last Stand at the Empty Feed.** Never let the feed go quiet. | **PF-10 - Pause and Resume.** Pause everything with one click, resume when ready. |
-| <img src="scenes/MU-11.png" width="400" alt="MU-11 Success Toast: Posted"> | <img src="scenes/MU-22.png" width="400" alt="MU-22 LinkedIn Banner"> |
-| **MU-11 - Success Toast: Posted.** Posted. The toast says it all. | **MU-22 - LinkedIn Banner.** Built for the feed where your work lives. |
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/activities-dark.webp">
+    <img src="assets/activities-light.webp" width="100%" alt="A sampling of Blowhorn actions, with Keyboard Warrior at the center. LinkedIn: posts, comments, reposts, connection requests, accepting invitations, Page invites and analytics. X: posts and threads, replies, quotes and follows. Reddit: subreddit posts and comments. Bluesky: posts, replies, reposts and follows. Hacker News: submissions and comments. Slack: channel messages, thread replies and direct messages. GitHub: follows and issue reactions. Everywhere: schedule ahead, amplification waves, dry run first, pause anything, many profiles at once, and more on the way.">
+  </picture>
+</p>
 
-The full catalog holds 195 scenes across battles, drills, recon and
-comms, platforms, product features, emotional beats, seasonal moments,
-and marketing uses. These six are the ones that tell the story fastest:
-command, signal, battle, pause, posted, banner.
+<br>
 
----
+## Built for teams, agencies and their clients
 
-## Inside this organization
+<table>
+<tr>
+<td width="33%" valign="top">
+<img src="assets/team-own-keys.webp" width="100%" alt="The G.I., a grumpy donkey in a helmet carrying a safe and padlocked saddlebags hung with keys">
 
-| Repository | What lives there |
-|---|---|
-| [blowhorn-site](https://github.com/blowhorn-ai/blowhorn-site) | The public website, docs source, and Mac releases (DMGs) |
-| Blowhorn | The app itself: desktop app, scheduler, and command line tool |
-| .github | This profile, plus organization community health files |
+### Coordinate centrally. Act from your own computer.
 
----
+Remote team? Everyone shares one plan and one queue, and each teammate posts from **their own computer**, signed in as themselves. Their sign-ins and profiles stay in their own hands.
+
+<sub><b>The G.I.</b> Carries your secrets. Tells no one.</sub>
+
+</td>
+<td width="33%" valign="top">
+<img src="assets/team-agency.webp" width="100%" alt="The General, an old billy goat in a naval coat, studying a campaign map with a bugle held to his ear">
+
+### Your agency's brand, not ours.
+
+Big agency? Put **your logo and colors** on the interfaces, reports and emails your clients see. They see your agency, never Blowhorn.
+
+<sub><b>The General</b>. Grouchy. Reads every report.</sub>
+
+</td>
+<td width="33%" valign="top">
+<img src="assets/team-workspaces.webp" width="100%" alt="The Chief Drill Instructor, a stocky turkey in a campaign hat, pointing at a schedule on his clipboard beside a neat stack of panels">
+
+### A workspace for every client.
+
+Keep each client in **its own workspace**, with its own profiles and schedules. Nothing crosses wires, and the right people work together on the right account.
+
+<sub><b>Chief Drill Instructor</b>. Furious about mess.</sub>
+
+</td>
+</tr>
+</table>
+
+<sub>Team invites are coming soon. Today, teammates install Blowhorn, sign in to your account and add their own profiles.</sub>
+
+<br>
+
+## What stays yours
+
+- **Your sign-ins.** LinkedIn, X, Reddit and Hacker News run in your own Chrome, where your sessions already live. Each Blowhorn profile gets its own Chrome profile, so your everyday browsing stays exactly as you left it.
+- **Your computers do the work.** Every post, reply and repost runs on one of your computers. Your Blowhorn account only keeps them in sync.
+- **Your voice, unbranded.** Blowhorn never brands or tags what you post. It looks like you because it is you.
+- **Your hand on the lever.** Pause one action, one computer or all of them, then pick up where you left off. CAPTCHAs and 2FA prompts always come to you.
+- **A careful pace.** Blowhorn types key by key and keeps to built-in daily caps, the way a careful person would.
+
+[Where your data lives &rarr;](https://blowhorn.ai/docs/explanation/your-data/)
+
+<br>
 
 <div align="center">
 
-### You have something to say. Blowhorn makes sure it gets said, on time.
+<a href="https://blowhorn.ai/download">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cta-dark.webp">
+    <img src="assets/cta-light.webp" width="100%" alt="Fall in, recruit. Quick to set up. Then Blowhorn posts as you, from your own Chrome, on your own Mac. Major Blowhorn salutes.">
+  </picture>
+</a>
 
-**[⬇ Download Blowhorn for Mac](https://github.com/blowhorn-ai/blowhorn-site/releases)**
+<br><br>
 
-Questions? Start with the [docs](https://blowhorn.ai/docs), or visit
-[blowhorn.ai](https://blowhorn.ai).
+<a href="https://blowhorn.ai/download"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-download-dark.png"><img src="assets/button-download-light.png" height="49" alt="Download for Mac"></picture></a>&nbsp;&nbsp;
+<a href="https://blowhorn.ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-site-dark.png"><img src="assets/button-site-light.png" height="49" alt="Visit blowhorn.ai"></picture></a>
+
+<sub><a href="https://blowhorn.ai/major/">Meet Major and the army</a> · <a href="https://blowhorn.ai/docs/">Docs</a> · <a href="https://blowhorn.ai/docs/reference/support/">Get help</a> · <a href="https://blowhorn.ai/legal/">Trust Center</a></sub>
+
+<br><br>
+
+<sub>&copy; 2026 Layer5, Inc. All product names and logos are trademarks of their respective owners. Blowhorn is not affiliated with or endorsed by any of them.</sub>
 
 </div>
