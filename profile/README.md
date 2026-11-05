@@ -97,31 +97,31 @@ Posting is just the opening act. Here is a sampling of what Blowhorn already doe
 <td width="33%" valign="top">
 <img src="assets/team-own-keys.webp" width="100%" alt="The G.I., a grumpy donkey in a helmet carrying a safe and padlocked saddlebags hung with keys">
 
+<sub><b>The G.I.</b> Carries your secrets. Tells no one.</sub>
+
 ### Coordinate centrally. Act from your own computer.
 
 Remote team? Everyone shares one plan and one queue, and each teammate posts from **their own computer**, signed in as themselves. Their sign-ins and profiles stay in their own hands.
-
-<sub><b>The G.I.</b> Carries your secrets. Tells no one.</sub>
 
 </td>
 <td width="33%" valign="top">
 <img src="assets/team-agency.webp" width="100%" alt="The General, an old billy goat in a naval coat, studying a campaign map with a bugle held to his ear">
 
+<sub><b>The General</b>. Grouchy. Reads every report.</sub>
+
 ### Your agency's brand, not ours.
 
 Big agency? Put **your logo and colors** on the interfaces, reports and emails your clients see. They see your agency, never Blowhorn.
-
-<sub><b>The General</b>. Grouchy. Reads every report.</sub>
 
 </td>
 <td width="33%" valign="top">
 <img src="assets/team-workspaces.webp" width="100%" alt="The Chief Drill Instructor, a stocky turkey in a campaign hat, pointing at a schedule on his clipboard beside a neat stack of panels">
 
+<sub><b>Chief Drill Instructor</b>. Furious about mess.</sub>
+
 ### A workspace for every client.
 
 Keep each client in **its own workspace**, with its own profiles and schedules. Nothing crosses wires, and the right people work together on the right account.
-
-<sub><b>Chief Drill Instructor</b>. Furious about mess.</sub>
 
 </td>
 </tr>
