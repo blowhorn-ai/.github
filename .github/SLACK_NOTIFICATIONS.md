@@ -31,5 +31,5 @@ admin (or repo admin) access.
   `Notify Slack` step, and this repo has no secrets configured, so the token
   does not resolve.
 - Once the secret is granted, the next star — or bouncing the
-  `good first issue` / `help wanted` label on any issue — should produce a
+  `good first issue` / `first-timers-only` / `help wanted` label on any issue — should produce a
   Slack message; a green run on that event confirms the fix end to end.
