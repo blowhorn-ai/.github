@@ -7,7 +7,7 @@
   </picture>
 </a>
 
-<h3>Write it once. Every profile you run says it, as you.</h3>
+<h2>Your voice, at full volume.</h2>
 
 <p>Blowhorn is a private Mac app for marketers, founders, devrel, agencies and remote teams.<br>
 It posts, amplifies and runs LinkedIn outreach across the social profiles you control,<br>
@@ -20,7 +20,7 @@ typing and clicking in your own Chrome, on your own computer.</p>
 
 </div>
 
-<h3>Your voice, at full volume.</h3>
+
 
 <br>
 
