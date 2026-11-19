@@ -16,9 +16,11 @@ typing and clicking in your own Chrome, on your own computer.</p>
 <a href="https://blowhorn.ai/download"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-download-dark.png"><img src="assets/button-download-light.png" height="49" alt="Download for Mac"></picture></a>&nbsp;&nbsp;
 <a href="https://blowhorn.ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-site-dark.png"><img src="assets/button-site-light.png" height="49" alt="Visit blowhorn.ai"></picture></a>
 
-<sub>Already works with <b>LinkedIn</b> · <b>X</b> · <b>Reddit</b> · <b>Hacker News</b> · <b>Bluesky</b> · <b>Slack</b> · <b>GitHub</b>, with more platforms on the way</sub>
+<sub>Already works with <b>LinkedIn</b> · <b>X</b> · <b>Reddit</b> · <b>Hacker News</b> · <b>Bluesky</b> · <b>Slack</b> · <b>GitHub</b> · <b>YouTube</b> · <b>TikTok</b> · <b>Instagram</b> · <b>Facebook</b>, with more platforms on the way</sub>
 
 </div>
+
+<h3>Your voice, at full volume.</h3>
 
 <br>
 
